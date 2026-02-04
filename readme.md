@@ -48,7 +48,7 @@ This repository contains **two research projects** conducted in the **stock mark
 - Stock market data collected using **YFinance API**
 - Covers **Indian and US markets** 
 - Includes numerical features (price, volume, indicators)
-- Sentiment datasets derived from financial news text using **GDELT 2.0**
+- Sentiment datasets derived from financial news text using **GDELT 2.0 API**
 
 ---
 
@@ -78,6 +78,6 @@ This repository contains **two research projects** conducted in the **stock mark
 
 1. Refer to the **Report** for detailed methodology and results of each project
 2. Explore the `code_blocks/` folder for implementation details
-3. Use the datasets provided for replication or further research
+3. The datasets provided were used in this research by collecting them using API
 
 ##
